@@ -1,0 +1,7 @@
+c:\users\гость\documents\visual studio 2010\Projects\RIATLab1\RIATLab1\bin\Debug\RIATLab1.exe
+c:\users\гость\documents\visual studio 2010\Projects\RIATLab1\RIATLab1\bin\Debug\RIATLab1.pdb
+c:\users\гость\documents\visual studio 2010\Projects\RIATLab1\RIATLab1\bin\Debug\Newtonsoft.Json.dll
+c:\users\гость\documents\visual studio 2010\Projects\RIATLab1\RIATLab1\bin\Debug\Newtonsoft.Json.pdb
+c:\users\гость\documents\visual studio 2010\Projects\RIATLab1\RIATLab1\obj\x86\Debug\RIATLab1.csprojResolveAssemblyReference.cache
+c:\users\гость\documents\visual studio 2010\Projects\RIATLab1\RIATLab1\obj\x86\Debug\RIATLab1.exe
+c:\users\гость\documents\visual studio 2010\Projects\RIATLab1\RIATLab1\obj\x86\Debug\RIATLab1.pdb
