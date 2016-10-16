@@ -19,6 +19,14 @@ namespace RIATLab1
             return Encoding.UTF8.GetBytes(JsonConvert.SerializeObject(obj));
         }
 
+        //todo: нуджно сделать такой инотерфейс и всю логику вынести в два наслдженика - JsonSerializer, XmlSerilaizer
+        //interface ISerializer
+        //{
+        //    bool CanSerialize(string serializeFormat);
+        //    string Serialize<T>(T obj);
+        //    T Deserialize<T>(string serializedObj);
+        //}
+
         public static T DeserializeJson<T>(byte[] bytes)
         {
             return JsonConvert.DeserializeObject<T>(Encoding.UTF8.GetString(bytes));
